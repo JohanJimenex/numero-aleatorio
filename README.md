@@ -1,8 +1,8 @@
-# numeroaleatorio
+# Numero Aleatorio
 
 Generador de número aleatorio, útil para rifas o juegos al azar, funciona como dado.
 
-`Código`
+`html`
 ``` [html]
 <!DOCTYPE html>
 <html lang="es">
@@ -47,7 +47,7 @@ Generador de número aleatorio, útil para rifas o juegos al azar, funciona como
 </html>
 ```
 
-`Código`
+`javascript`
 ``` [javascript]
 //Generador de número aleatorio, útil para rifas o juegos al azar, funciona como dado.
 var numeros = document.querySelector("#input");
