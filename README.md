@@ -42,7 +42,7 @@ He utilizado el framework de bootstrap.css para los estilos, recuerde descargar 
         <h1 class="display-5 ">Generador de Número   Aleatorio  </h1>
         <p class="font-weight-bold">Ingresa el número maximo</p>
 
-        <input id="input" class="text-center border border-dark  " type="number" placeholder="ejemplo: 146" required>
+        <input id="input" class="text-center border border-dark  " type="number" placeholder="Ejemplo: 146" required>
 
 
         <hr class="my-2">
