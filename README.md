@@ -1,6 +1,13 @@
 # Numero Aleatorio
 
 Generador de número aleatorio, útil para rifas o juegos al azar, funciona como dado.
+### Nota
+
+He utilizado el framework de bootstrap.css para los estilos, recuerde vincular el mismo:
+`Bootstrap.css`
+```html
+<link rel="stylesheet" href="bootstrap.css">
+```
 
 `html`
 ``` html
