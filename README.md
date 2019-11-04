@@ -3,7 +3,7 @@
 Generador de número aleatorio, útil para rifas o juegos al azar, funciona como dado.
 ## Probar app :  https://johanjimenex.github.io/numero-aleatorio/
 
-### Captura de pantalla
+### Vista previa
 
 ![](captura.gif)
 
