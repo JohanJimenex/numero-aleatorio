@@ -3,7 +3,7 @@
 Generador de número aleatorio, útil para rifas o juegos al azar, funciona como dado.
 
 `html`
-``` [html]
+``` html
 <!DOCTYPE html>
 <html lang="es">
 
@@ -48,7 +48,7 @@ Generador de número aleatorio, útil para rifas o juegos al azar, funciona como
 ```
 
 `javascript`
-``` [javascript]
+``` javascript
 //Generador de número aleatorio, útil para rifas o juegos al azar, funciona como dado.
 var numeros = document.querySelector("#input");
 var boton = document.querySelector("#boton");
@@ -56,7 +56,7 @@ var contenedor = document.querySelector("#contenedor");
 var carga = document.querySelector("#carga");
 
 boton.addEventListener("click", sortear);
-// contenedor.innerHTML = "0";
+
 
 function sortear(e) {
     e.preventDefault();

@@ -4,7 +4,6 @@ var contenedor = document.querySelector("#contenedor");
 var carga = document.querySelector("#carga");
 
 boton.addEventListener("click", sortear);
-// contenedor.innerHTML = "0";
 
 function sortear(e) {
     e.preventDefault();
